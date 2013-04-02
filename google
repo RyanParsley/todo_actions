@@ -2,8 +2,8 @@
 
 # The client_id and client_secret are copied from the API Access tab on
 # the Google APIs Console
-CLIENT_ID="751320726215.apps.googleusercontent.com"
-CLIENT_SECRET="AUEPs5wGn8mJlUOdruN_IHel"
+CLIENT_ID=""
+CLIENT_SECRET=""
 
 """ TODO.TXT Google Task Sync
 USAGE:  
